@@ -1,7 +1,7 @@
 def add(x,y):
     return x+y
 	
-def minux(x,y):
+def minus(x,y):
     pass
 
 def divide(x,y):
